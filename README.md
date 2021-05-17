@@ -1,3 +1,3 @@
 # janigit
 hii hello
-git
+gi
